@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/student prediction problem/student prediction problem/xgboost" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/student prediction problem/student prediction problem/xgboost/cub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/student prediction problem/student prediction problem/xgboost/dmlc-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/student prediction problem/student prediction problem/xgboost/gputreeshap" vcs="Git" />
+  </component>
+</project>
